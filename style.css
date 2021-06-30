@@ -1,0 +1,61 @@
+h1 {
+    color: darkblue;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align-last: center;
+}
+h2 {
+    color: darkkhaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align-last: center;
+}
+th {
+    font-weight: 800;
+    background-color: beige
+    color: darkseagreen;
+}
+table {font-family: cursive;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(161, 134, 134);
+}
+.gallery img{
+    width: 20%;
+
+}
+#menu{
+        width:80%;
+        height: 50%;
+        background-color: cornflowerblue;
+        padding-top: 12px;
+}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    
+    color: darkkhaki;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align-last: center;
+}
+#menu a{
+    color:#ffffff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+    text-decoration-style: none;
+    font: weight 500px; 
+
+    padding-left: 20x;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: #5077bd;
+}
+
+
+
+
+
